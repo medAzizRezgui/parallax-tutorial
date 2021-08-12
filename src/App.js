@@ -27,6 +27,7 @@ function App() {
           <b>2. Like the video.</b> To see more content like that!
         </p>
         <p>
+
           <b>3. Follow the Github link.</b> And play with this code yourself!
         </p>
       </div>
